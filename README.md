@@ -87,6 +87,7 @@ A web-based application for booking electric bikes.
 - ASP.NET Core Web API
 - C#
 - Angular
+- -MySQL Server
 - SQL Server
 - Entity Framework Core
 - REST API
