@@ -3,9 +3,9 @@
 - 👨‍💻 I'm a **.NET Full Stack Developer**
 - 🎓 Recently completed **M.Sc. Computer Science**
 - 🌱 I'm continuously learning and improving my technical skills
-- 💡 I enjoy building real-world applications and solving programming problems
-- 🚀 Interested in **.NET, Angular, SQL and Web Development**
-- 🤝 Open to learning, collaboration and new opportunities
+- 💡 I enjoy building real-world applications, and solving programming problems
+- 🚀 Interested in **.NET,PYTHON,Angular, MYSQL,SQL, and Web Development**
+- 🤝 Open to learning, collaboration and new opPportunities
 
 ---
 
@@ -14,7 +14,7 @@
 I am a passionate **.NET Full Stack Developer** with a strong interest in
 building web applications and learning new technologies.
 
-I have hands-on experience with **C#, ASP.NET Core, Web API, Angular,
+I have hands-on experience with **C#, ASP.NET Core,Python,Web API, Angular,
 SQL Server, MySQL, HTML, CSS, JavaScript and TypeScript**.
 
 I enjoy understanding how things work and continuously improving my
@@ -62,6 +62,7 @@ programming and problem-solving skills.
 ## 🚀 Technologies I'm Learning
 
 - C#
+- PYTHON
 - .NET / ASP.NET Core
 - Web API
 - Angular
@@ -86,6 +87,7 @@ A web-based application for booking electric bikes.
 
 - ASP.NET Core Web API
 - C#
+- PYTHON
 - Angular
 - -MySQL Server
 - SQL Server
@@ -95,6 +97,7 @@ A web-based application for booking electric bikes.
 - HTML
 - CSS
 - TypeScript
+  
 
 **Features:**
 
